@@ -14,6 +14,9 @@
 		12A4BFD01DC6A1A7001A69F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12A4BFCE1DC6A1A7001A69F3 /* LaunchScreen.storyboard */; };
 		12A4BFDB1DC6A1A7001A69F3 /* mailbox_week3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A4BFDA1DC6A1A7001A69F3 /* mailbox_week3Tests.swift */; };
 		12A4BFE61DC6A1A7001A69F3 /* mailbox_week3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A4BFE51DC6A1A7001A69F3 /* mailbox_week3UITests.swift */; };
+		12A4BFF41DC6A7A1001A69F3 /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A4BFF31DC6A7A1001A69F3 /* MailboxViewController.swift */; };
+		12A4BFF61DC6F123001A69F3 /* scheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A4BFF51DC6F123001A69F3 /* scheduleView.swift */; };
+		12A4BFF81DC70D68001A69F3 /* listView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A4BFF71DC70D68001A69F3 /* listView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		12A4BFE11DC6A1A7001A69F3 /* mailbox_week3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mailbox_week3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12A4BFE51DC6A1A7001A69F3 /* mailbox_week3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mailbox_week3UITests.swift; sourceTree = "<group>"; };
 		12A4BFE71DC6A1A7001A69F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12A4BFF31DC6A7A1001A69F3 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
+		12A4BFF51DC6F123001A69F3 /* scheduleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scheduleView.swift; sourceTree = "<group>"; };
+		12A4BFF71DC70D68001A69F3 /* listView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = listView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				12A4BFCC1DC6A1A7001A69F3 /* Assets.xcassets */,
 				12A4BFCE1DC6A1A7001A69F3 /* LaunchScreen.storyboard */,
 				12A4BFD11DC6A1A7001A69F3 /* Info.plist */,
+				12A4BFF31DC6A7A1001A69F3 /* MailboxViewController.swift */,
+				12A4BFF51DC6F123001A69F3 /* scheduleView.swift */,
+				12A4BFF71DC70D68001A69F3 /* listView.swift */,
 			);
 			path = mailbox_week3;
 			sourceTree = "<group>";
@@ -260,7 +269,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				12A4BFC81DC6A1A7001A69F3 /* ViewController.swift in Sources */,
+				12A4BFF61DC6F123001A69F3 /* scheduleView.swift in Sources */,
+				12A4BFF81DC70D68001A69F3 /* listView.swift in Sources */,
 				12A4BFC61DC6A1A7001A69F3 /* AppDelegate.swift in Sources */,
+				12A4BFF41DC6A7A1001A69F3 /* MailboxViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
