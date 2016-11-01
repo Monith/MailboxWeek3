@@ -50,7 +50,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="n1pxkbf"><a href="//imgur.com/n1pxkbf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt tag](https://github.com/Monith/MailboxWeek3/blob/master/mailbox_gif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
